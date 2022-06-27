@@ -1,3 +1,18 @@
+# FreecodeCamp learning project
+
+In this project I was learning to use 'add Event Listeners' in React as well as Hooks (useState)
+
+![Sin título](https://user-images.githubusercontent.com/80891761/176006021-bbfc5765-a24f-4c73-ba43-45fab3ddea3f.png)
+
+
+
+
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
